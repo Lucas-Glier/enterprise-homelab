@@ -1,2 +1,34 @@
-# enterprise-homelab
-Enterprise infrastructure homelab simulating a small-to-medium corporate IT environment, focused on networking, Windows Server, Active Directory, Linux, virtualization, monitoring, security, backup, disaster recovery and infrastructure automation.
+# Enterprise Homelab
+
+Laboratório de infraestrutura desenvolvido para simular
+um ambiente corporativo de pequeno/médio porte.
+
+## Objetivos
+
+- Redes
+- VLANs
+- Routing
+- Windows Server
+- Active Directory
+- Linux
+- Virtualização
+- Monitoramento
+- Backup
+- Segurança
+- Automação
+
+## Infraestrutura
+
+[em construção]
+
+## Tecnologias
+
+- Ubuntu Server
+- Windows Server
+- Proxmox
+- Docker
+- Zabbix
+- Grafana
+- OPNsense
+- PowerShell
+- Bash
